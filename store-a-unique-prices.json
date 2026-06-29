@@ -1,0 +1,2145 @@
+[
+  {
+    "price": 24.8,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 29.63,
+    "count": 1,
+    "originalPrices": [
+      39.5
+    ]
+  },
+  {
+    "price": 31.05,
+    "count": 1,
+    "originalPrices": [
+      34.5
+    ]
+  },
+  {
+    "price": 33.38,
+    "count": 4,
+    "originalPrices": [
+      44.5
+    ]
+  },
+  {
+    "price": 35.55,
+    "count": 2,
+    "originalPrices": [
+      39.5
+    ]
+  },
+  {
+    "price": 37.13,
+    "count": 2,
+    "originalPrices": [
+      49.5
+    ]
+  },
+  {
+    "price": 40.05,
+    "count": 1,
+    "originalPrices": [
+      44.5
+    ]
+  },
+  {
+    "price": 44.55,
+    "count": 4,
+    "originalPrices": [
+      49.5
+    ]
+  },
+  {
+    "price": 49.05,
+    "count": 1,
+    "originalPrices": [
+      54.5
+    ]
+  },
+  {
+    "price": 53.55,
+    "count": 3,
+    "originalPrices": [
+      59.5
+    ]
+  },
+  {
+    "price": 54.99,
+    "count": 6,
+    "originalPrices": [
+      149.99
+    ]
+  },
+  {
+    "price": 55.88,
+    "count": 2,
+    "originalPrices": [
+      74.5
+    ]
+  },
+  {
+    "price": 58.05,
+    "count": 2,
+    "originalPrices": [
+      64.5
+    ]
+  },
+  {
+    "price": 59.63,
+    "count": 1,
+    "originalPrices": [
+      79.5
+    ]
+  },
+  {
+    "price": 59.99,
+    "count": 1,
+    "originalPrices": [
+      79.99
+    ]
+  },
+  {
+    "price": 67.05,
+    "count": 3,
+    "originalPrices": [
+      74.5
+    ]
+  },
+  {
+    "price": 70.88,
+    "count": 1,
+    "originalPrices": [
+      94.5
+    ]
+  },
+  {
+    "price": 71.55,
+    "count": 3,
+    "originalPrices": [
+      79.5
+    ]
+  },
+  {
+    "price": 74.99,
+    "count": 1,
+    "originalPrices": [
+      99.99
+    ]
+  },
+  {
+    "price": 76.05,
+    "count": 7,
+    "originalPrices": [
+      84.5
+    ]
+  },
+  {
+    "price": 79.2,
+    "count": 52,
+    "originalPrices": [
+      99
+    ]
+  },
+  {
+    "price": 80.55,
+    "count": 1,
+    "originalPrices": [
+      89.5
+    ]
+  },
+  {
+    "price": 85.05,
+    "count": 2,
+    "originalPrices": [
+      94.5
+    ]
+  },
+  {
+    "price": 87.2,
+    "count": 85,
+    "originalPrices": [
+      109
+    ]
+  },
+  {
+    "price": 89.55,
+    "count": 9,
+    "originalPrices": [
+      99.5
+    ]
+  },
+  {
+    "price": 90,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 92,
+    "count": 491,
+    "originalPrices": [
+      115
+    ]
+  },
+  {
+    "price": 92.8,
+    "count": 28,
+    "originalPrices": [
+      116
+    ]
+  },
+  {
+    "price": 93.38,
+    "count": 2,
+    "originalPrices": [
+      124.5
+    ]
+  },
+  {
+    "price": 94.05,
+    "count": 2,
+    "originalPrices": [
+      104.5
+    ]
+  },
+  {
+    "price": 95.2,
+    "count": 1,
+    "originalPrices": [
+      119
+    ]
+  },
+  {
+    "price": 98.55,
+    "count": 7,
+    "originalPrices": [
+      109.5
+    ]
+  },
+  {
+    "price": 98.7,
+    "count": 1,
+    "originalPrices": [
+      164.5
+    ]
+  },
+  {
+    "price": 99.99,
+    "count": 3,
+    "originalPrices": [
+      199.99,
+      349.99
+    ]
+  },
+  {
+    "price": 103.05,
+    "count": 8,
+    "originalPrices": [
+      114.5
+    ]
+  },
+  {
+    "price": 103.2,
+    "count": 39,
+    "originalPrices": [
+      129
+    ]
+  },
+  {
+    "price": 107.55,
+    "count": 10,
+    "originalPrices": [
+      119.5
+    ]
+  },
+  {
+    "price": 107.7,
+    "count": 1,
+    "originalPrices": [
+      179.5
+    ]
+  },
+  {
+    "price": 108.38,
+    "count": 1,
+    "originalPrices": [
+      144.5
+    ]
+  },
+  {
+    "price": 109.99,
+    "count": 1,
+    "originalPrices": [
+      149.99
+    ]
+  },
+  {
+    "price": 112.05,
+    "count": 6,
+    "originalPrices": [
+      124.5
+    ]
+  },
+  {
+    "price": 112.49,
+    "count": 1,
+    "originalPrices": [
+      149.99
+    ]
+  },
+  {
+    "price": 114.44,
+    "count": 4,
+    "originalPrices": [
+      169.99
+    ]
+  },
+  {
+    "price": 114.99,
+    "count": 1,
+    "originalPrices": [
+      169.99
+    ]
+  },
+  {
+    "price": 116.55,
+    "count": 24,
+    "originalPrices": [
+      129.5
+    ]
+  },
+  {
+    "price": 119.99,
+    "count": 5,
+    "originalPrices": [
+      249.99,
+      349.99,
+      369.99
+    ]
+  },
+  {
+    "price": 121.05,
+    "count": 28,
+    "originalPrices": [
+      134.5
+    ]
+  },
+  {
+    "price": 123.38,
+    "count": 1,
+    "originalPrices": [
+      164.5
+    ]
+  },
+  {
+    "price": 124.99,
+    "count": 3,
+    "originalPrices": [
+      159.99,
+      189.99
+    ]
+  },
+  {
+    "price": 125.34,
+    "count": 4,
+    "originalPrices": [
+      159.99
+    ]
+  },
+  {
+    "price": 125.55,
+    "count": 39,
+    "originalPrices": [
+      139.5
+    ]
+  },
+  {
+    "price": 125.78,
+    "count": 1,
+    "originalPrices": [
+      139.75
+    ]
+  },
+  {
+    "price": 126.75,
+    "count": 2,
+    "originalPrices": [
+      169
+    ]
+  },
+  {
+    "price": 129.99,
+    "count": 5,
+    "originalPrices": [
+      249.99,
+      349.99,
+      399.99
+    ]
+  },
+  {
+    "price": 130.05,
+    "count": 40,
+    "originalPrices": [
+      144.5
+    ]
+  },
+  {
+    "price": 133,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 134.55,
+    "count": 59,
+    "originalPrices": [
+      149.5
+    ]
+  },
+  {
+    "price": 134.99,
+    "count": 2,
+    "originalPrices": [
+      189.99,
+      299.99
+    ]
+  },
+  {
+    "price": 136.24,
+    "count": 1,
+    "originalPrices": [
+      179.99
+    ]
+  },
+  {
+    "price": 139.05,
+    "count": 117,
+    "originalPrices": [
+      154.5
+    ]
+  },
+  {
+    "price": 139.99,
+    "count": 23,
+    "originalPrices": [
+      279.99,
+      299.99,
+      349.99,
+      369.99,
+      399.99,
+      499.99,
+      599.99
+    ]
+  },
+  {
+    "price": 143.55,
+    "count": 69,
+    "originalPrices": [
+      159.5
+    ]
+  },
+  {
+    "price": 144.99,
+    "count": 44,
+    "originalPrices": [
+      199.99,
+      279.99,
+      299.99
+    ]
+  },
+  {
+    "price": 148.05,
+    "count": 145,
+    "originalPrices": [
+      164.5
+    ]
+  },
+  {
+    "price": 149.99,
+    "count": 135,
+    "originalPrices": [
+      199.99,
+      279.99,
+      299.99,
+      324.99,
+      349.99,
+      399.99,
+      499.99
+    ]
+  },
+  {
+    "price": 151.2,
+    "count": 261,
+    "originalPrices": [
+      189
+    ]
+  },
+  {
+    "price": 152.1,
+    "count": 14,
+    "originalPrices": [
+      169
+    ]
+  },
+  {
+    "price": 152.55,
+    "count": 63,
+    "originalPrices": [
+      169.5
+    ]
+  },
+  {
+    "price": 154.99,
+    "count": 18,
+    "originalPrices": [
+      349.99,
+      399.99
+    ]
+  },
+  {
+    "price": 157.05,
+    "count": 65,
+    "originalPrices": [
+      174.5
+    ]
+  },
+  {
+    "price": 157.49,
+    "count": 19,
+    "originalPrices": [
+      209.99
+    ]
+  },
+  {
+    "price": 157.5,
+    "count": 2,
+    "originalPrices": [
+      210
+    ]
+  },
+  {
+    "price": 159.2,
+    "count": 501,
+    "originalPrices": [
+      199
+    ]
+  },
+  {
+    "price": 159.99,
+    "count": 105,
+    "originalPrices": [
+      249.99,
+      279.99,
+      299.99,
+      349.99,
+      399.99,
+      499.99
+    ]
+  },
+  {
+    "price": 161.55,
+    "count": 30,
+    "originalPrices": [
+      179.5
+    ]
+  },
+  {
+    "price": 164.99,
+    "count": 23,
+    "originalPrices": [
+      299.99,
+      349.99,
+      399.99,
+      499.99,
+      599.99
+    ]
+  },
+  {
+    "price": 166.05,
+    "count": 37,
+    "originalPrices": [
+      184.5
+    ]
+  },
+  {
+    "price": 167.2,
+    "count": 473,
+    "originalPrices": [
+      209
+    ]
+  },
+  {
+    "price": 169.99,
+    "count": 61,
+    "originalPrices": [
+      299.99,
+      399.99,
+      499.99,
+      599.99
+    ]
+  },
+  {
+    "price": 170.55,
+    "count": 30,
+    "originalPrices": [
+      189.5
+    ]
+  },
+  {
+    "price": 174.99,
+    "count": 15,
+    "originalPrices": [
+      499.99,
+      599.99
+    ]
+  },
+  {
+    "price": 175.05,
+    "count": 20,
+    "originalPrices": [
+      194.5
+    ]
+  },
+  {
+    "price": 175.2,
+    "count": 112,
+    "originalPrices": [
+      219
+    ]
+  },
+  {
+    "price": 179.55,
+    "count": 17,
+    "originalPrices": [
+      199.5
+    ]
+  },
+  {
+    "price": 179.99,
+    "count": 12,
+    "originalPrices": [
+      349.99,
+      399.99,
+      799.99
+    ]
+  },
+  {
+    "price": 180,
+    "count": 1,
+    "originalPrices": [
+      225
+    ]
+  },
+  {
+    "price": 183.2,
+    "count": 108,
+    "originalPrices": [
+      229
+    ]
+  },
+  {
+    "price": 184.05,
+    "count": 9,
+    "originalPrices": [
+      204.5
+    ]
+  },
+  {
+    "price": 188.55,
+    "count": 1,
+    "originalPrices": [
+      209.5
+    ]
+  },
+  {
+    "price": 189,
+    "count": 11,
+    "originalPrices": [
+      210
+    ]
+  },
+  {
+    "price": 189.99,
+    "count": 26,
+    "originalPrices": [
+      399.99,
+      499.99,
+      599.99,
+      799.99,
+      999.99
+    ]
+  },
+  {
+    "price": 191.2,
+    "count": 49,
+    "originalPrices": [
+      239
+    ]
+  },
+  {
+    "price": 193.05,
+    "count": 1,
+    "originalPrices": [
+      214.5
+    ]
+  },
+  {
+    "price": 197.55,
+    "count": 2,
+    "originalPrices": [
+      219.5
+    ]
+  },
+  {
+    "price": 199,
+    "count": 4,
+    "originalPrices": [
+      229
+    ]
+  },
+  {
+    "price": 199.2,
+    "count": 171,
+    "originalPrices": [
+      249
+    ]
+  },
+  {
+    "price": 199.99,
+    "count": 2,
+    "originalPrices": [
+      399.99,
+      599.99
+    ]
+  },
+  {
+    "price": 202.05,
+    "count": 21,
+    "originalPrices": [
+      224.5
+    ]
+  },
+  {
+    "price": 206.55,
+    "count": 9,
+    "originalPrices": [
+      229.5
+    ]
+  },
+  {
+    "price": 207.2,
+    "count": 6,
+    "originalPrices": [
+      259
+    ]
+  },
+  {
+    "price": 209.99,
+    "count": 5,
+    "originalPrices": [
+      279.99,
+      299.99
+    ]
+  },
+  {
+    "price": 211.05,
+    "count": 9,
+    "originalPrices": [
+      234.5
+    ]
+  },
+  {
+    "price": 215.2,
+    "count": 21,
+    "originalPrices": [
+      269
+    ]
+  },
+  {
+    "price": 215.55,
+    "count": 6,
+    "originalPrices": [
+      239.5
+    ]
+  },
+  {
+    "price": 219.99,
+    "count": 1,
+    "originalPrices": [
+      499.99
+    ]
+  },
+  {
+    "price": 220.05,
+    "count": 5,
+    "originalPrices": [
+      244.5
+    ]
+  },
+  {
+    "price": 223.2,
+    "count": 39,
+    "originalPrices": [
+      279
+    ]
+  },
+  {
+    "price": 224.55,
+    "count": 17,
+    "originalPrices": [
+      249.5
+    ]
+  },
+  {
+    "price": 229,
+    "count": 8,
+    "originalPrices": [
+      229
+    ]
+  },
+  {
+    "price": 229.05,
+    "count": 2,
+    "originalPrices": [
+      254.5,
+      264.5
+    ]
+  },
+  {
+    "price": 229.99,
+    "count": 6,
+    "originalPrices": [
+      499.99
+    ]
+  },
+  {
+    "price": 231.2,
+    "count": 38,
+    "originalPrices": [
+      289
+    ]
+  },
+  {
+    "price": 233.55,
+    "count": 1,
+    "originalPrices": [
+      259.5
+    ]
+  },
+  {
+    "price": 238.05,
+    "count": 2,
+    "originalPrices": [
+      264.5
+    ]
+  },
+  {
+    "price": 239.2,
+    "count": 115,
+    "originalPrices": [
+      299
+    ]
+  },
+  {
+    "price": 244,
+    "count": 1,
+    "originalPrices": [
+      305
+    ]
+  },
+  {
+    "price": 247.05,
+    "count": 1,
+    "originalPrices": [
+      274.5
+    ]
+  },
+  {
+    "price": 247.2,
+    "count": 49,
+    "originalPrices": [
+      309
+    ]
+  },
+  {
+    "price": 249,
+    "count": 2,
+    "originalPrices": [
+      269,
+      279
+    ]
+  },
+  {
+    "price": 249.99,
+    "count": 1,
+    "originalPrices": [
+      499.99
+    ]
+  },
+  {
+    "price": 250,
+    "count": 1,
+    "originalPrices": [
+      279
+    ]
+  },
+  {
+    "price": 251,
+    "count": 2,
+    "originalPrices": [
+      279
+    ]
+  },
+  {
+    "price": 251.1,
+    "count": 8,
+    "originalPrices": [
+      279
+    ]
+  },
+  {
+    "price": 251.55,
+    "count": 2,
+    "originalPrices": [
+      279.5
+    ]
+  },
+  {
+    "price": 255.2,
+    "count": 24,
+    "originalPrices": [
+      319
+    ]
+  },
+  {
+    "price": 256.05,
+    "count": 5,
+    "originalPrices": [
+      284.5
+    ]
+  },
+  {
+    "price": 259,
+    "count": 1,
+    "originalPrices": [
+      289
+    ]
+  },
+  {
+    "price": 260,
+    "count": 27,
+    "originalPrices": [
+      289
+    ]
+  },
+  {
+    "price": 260.1,
+    "count": 2,
+    "originalPrices": [
+      288.9
+    ]
+  },
+  {
+    "price": 260.55,
+    "count": 2,
+    "originalPrices": [
+      289.5
+    ]
+  },
+  {
+    "price": 263.2,
+    "count": 14,
+    "originalPrices": [
+      329
+    ]
+  },
+  {
+    "price": 265.05,
+    "count": 4,
+    "originalPrices": [
+      294.5
+    ]
+  },
+  {
+    "price": 269,
+    "count": 25,
+    "originalPrices": [
+      299
+    ]
+  },
+  {
+    "price": 269.1,
+    "count": 11,
+    "originalPrices": [
+      299
+    ]
+  },
+  {
+    "price": 269.55,
+    "count": 2,
+    "originalPrices": [
+      299.5
+    ]
+  },
+  {
+    "price": 271.2,
+    "count": 12,
+    "originalPrices": [
+      339
+    ]
+  },
+  {
+    "price": 279,
+    "count": 7,
+    "originalPrices": [
+      279,
+      279.9,
+      309
+    ]
+  },
+  {
+    "price": 279.2,
+    "count": 2,
+    "originalPrices": [
+      349
+    ]
+  },
+  {
+    "price": 281.99,
+    "count": 1,
+    "originalPrices": [
+      375.99
+    ]
+  },
+  {
+    "price": 283.05,
+    "count": 7,
+    "originalPrices": [
+      314.5
+    ]
+  },
+  {
+    "price": 287.55,
+    "count": 4,
+    "originalPrices": [
+      319.5
+    ]
+  },
+  {
+    "price": 289,
+    "count": 2,
+    "originalPrices": [
+      289,
+      309
+    ]
+  },
+  {
+    "price": 292.05,
+    "count": 1,
+    "originalPrices": [
+      324.5
+    ]
+  },
+  {
+    "price": 295.2,
+    "count": 1,
+    "originalPrices": [
+      369
+    ]
+  },
+  {
+    "price": 296.55,
+    "count": 1,
+    "originalPrices": [
+      329.5
+    ]
+  },
+  {
+    "price": 299,
+    "count": 4,
+    "originalPrices": [
+      299,
+      329
+    ]
+  },
+  {
+    "price": 299.99,
+    "count": 1,
+    "originalPrices": [
+      399.99
+    ]
+  },
+  {
+    "price": 301.05,
+    "count": 1,
+    "originalPrices": [
+      334.5
+    ]
+  },
+  {
+    "price": 310.05,
+    "count": 1,
+    "originalPrices": [
+      344.5
+    ]
+  },
+  {
+    "price": 313.65,
+    "count": 1,
+    "originalPrices": [
+      348.5
+    ]
+  },
+  {
+    "price": 340.65,
+    "count": 1,
+    "originalPrices": [
+      378.5
+    ]
+  },
+  {
+    "price": 341.1,
+    "count": 1,
+    "originalPrices": [
+      379
+    ]
+  },
+  {
+    "price": 346.05,
+    "count": 1,
+    "originalPrices": [
+      384.5
+    ]
+  },
+  {
+    "price": 355.05,
+    "count": 1,
+    "originalPrices": [
+      394.5
+    ]
+  },
+  {
+    "price": 449.99,
+    "count": 3,
+    "originalPrices": [
+      599.99
+    ]
+  },
+  {
+    "price": 1070,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 1080,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 1200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 1420,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 1480,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 1520,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 1580,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 1700,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 1810,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 1850,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 1900,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 1940,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2060,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2160,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 2300,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2320,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 2350,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2410,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2440,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2470,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2480,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2520,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2570,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2640,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 2670,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 2830,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2850,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 2860,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 2900,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 2930,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 3050,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 3120,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 3150,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 3250,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 3300,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 3340,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 3350,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 3500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 3650,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 3700,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 3750,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 3900,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 4100,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 4180,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 4200,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 4460,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 4500,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 4600,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 4700,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 4900,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 5050,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 5100,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 5250,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 5300,
+    "count": 5,
+    "originalPrices": []
+  },
+  {
+    "price": 5350,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 5400,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 5550,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 5600,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 5650,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 5850,
+    "count": 4,
+    "originalPrices": []
+  },
+  {
+    "price": 5900,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 6050,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 6200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 6250,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 6400,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 6630,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 6700,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 7100,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 7150,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 7200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 7350,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 7800,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 7900,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 7950,
+    "count": 4,
+    "originalPrices": []
+  },
+  {
+    "price": 8000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 8050,
+    "count": 3,
+    "originalPrices": []
+  },
+  {
+    "price": 8150,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 8250,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 8510,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 8600,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 8650,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 8700,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 8850,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 8900,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 8950,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 9000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 9300,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 9400,
+    "count": 3,
+    "originalPrices": []
+  },
+  {
+    "price": 9450,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 9550,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 9700,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 9900,
+    "count": 3,
+    "originalPrices": []
+  },
+  {
+    "price": 10200,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 10400,
+    "count": 3,
+    "originalPrices": []
+  },
+  {
+    "price": 10700,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 10800,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 10900,
+    "count": 3,
+    "originalPrices": []
+  },
+  {
+    "price": 11000,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 11200,
+    "count": 3,
+    "originalPrices": []
+  },
+  {
+    "price": 11250,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 11300,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 11500,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 11600,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 11770,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 11900,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 12100,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 12200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 13100,
+    "count": 3,
+    "originalPrices": []
+  },
+  {
+    "price": 13300,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 13800,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 14000,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 14200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 15200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 15300,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 16000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 16100,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 16950,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 17000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 17100,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 17200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 17300,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 17400,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 18200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 18300,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 18800,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 18900,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 19200,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 19800,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 20100,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 20500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 21700,
+    "count": 3,
+    "originalPrices": []
+  },
+  {
+    "price": 22200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 23200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 23600,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 23800,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 24500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 26200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 26500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 27000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 27100,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 27500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 27800,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 28100,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 28400,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 29000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 29100,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 29800,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 29900,
+    "count": 3,
+    "originalPrices": []
+  },
+  {
+    "price": 30300,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 32000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 32900,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 36000,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 37100,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 38400,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 38520,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 39500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 39700,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 42800,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 43000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 46000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 46500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 46550,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 48400,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 48700,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 49800,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 53500,
+    "count": 3,
+    "originalPrices": []
+  },
+  {
+    "price": 54500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 55200,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 56300,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 57000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 58500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 59000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 60350,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 60500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 65500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 67000,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 69000,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 74000,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 75000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 83500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 88000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 89000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 91500,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 104000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 113000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 115000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 116000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 125000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 144000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 162000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 189000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 224000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 235000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 259000,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 261000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 280000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 293000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 310000,
+    "count": 2,
+    "originalPrices": []
+  },
+  {
+    "price": 360000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 432000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 449000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 493000,
+    "count": 1,
+    "originalPrices": []
+  },
+  {
+    "price": 555000,
+    "count": 1,
+    "originalPrices": []
+  }
+]

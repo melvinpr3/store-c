@@ -1,0 +1,891 @@
+[
+  {
+    "id": "c62119dc-9c8e-490d-bf7b-10d2b8ae9c78",
+    "name": "Pochette con Catenella e Motivo Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 281.99,
+    "newPrice": 283.05
+  },
+  {
+    "id": "b8c15bbf-aa43-48b2-942e-a86df9da61b4",
+    "name": "Sneaker Hybrid Lowmel con Stringhe Oversize",
+    "brand": "UGG",
+    "oldPrice": 109.99,
+    "newPrice": 112.05
+  },
+  {
+    "id": "c36ff50e-048d-4e16-8f56-474de701f6ec",
+    "name": "Mini Pochette con Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 99.99,
+    "newPrice": 98.55
+  },
+  {
+    "id": "4b97d4ac-869c-436d-9cad-2e9b4578a429",
+    "name": "Borsa Tote Mini Reversibile con Monogram e Shearling",
+    "brand": "Louis Vuitton",
+    "oldPrice": 199.99,
+    "newPrice": 199.2
+  },
+  {
+    "id": "921fd58e-f9ad-41e9-9834-5c72f5b0caac",
+    "name": "Borsa Hobo Nano con Monogram",
+    "brand": "Fendi",
+    "oldPrice": 134.99,
+    "newPrice": 134.55
+  },
+  {
+    "id": "ea2e427e-af69-4e10-9749-3fd10a7e4862",
+    "name": "Portamonete Zippy con Logo Giant",
+    "brand": "Louis Vuitton",
+    "oldPrice": 59.63,
+    "newPrice": 54.99
+  },
+  {
+    "id": "724ee8bb-6b5a-48b5-84d3-982cc8c3d255",
+    "name": "Set Trio Pochette con Monogram e Bande Grafiche",
+    "brand": "Louis Vuitton",
+    "oldPrice": 123.38,
+    "newPrice": 125.55
+  },
+  {
+    "id": "6b72df5c-6a2a-493d-ac3c-415a0f86d865",
+    "name": "Berretto da Baseball in Tessuto con Logo Ricamato",
+    "brand": "Miu Miu",
+    "oldPrice": 74.99,
+    "newPrice": 76.05
+  },
+  {
+    "id": "2c0c366a-a592-4f22-8cad-78da9d3d0077",
+    "name": "Piumino Cropped in Tessuto Tecnico",
+    "brand": "Prada",
+    "oldPrice": 299.99,
+    "newPrice": 283.05
+  },
+  {
+    "id": "2a6adb8d-90ad-463f-a645-9047a8d0a8d1",
+    "name": "Borsa Tote con Ricamo Toile de Jouy",
+    "brand": "Dior",
+    "oldPrice": 199.99,
+    "newPrice": 199.2
+  },
+  {
+    "id": "ded96773-03ab-4543-84f5-0f4fefc1ce2e",
+    "name": "Top Sportivo Crop con Logo Elastico",
+    "brand": "Palm Angels",
+    "oldPrice": 112.49,
+    "newPrice": 112.05
+  },
+  {
+    "id": "ef78d47f-77a0-4024-a240-005beb8d5853",
+    "name": "Berretto con Logo Gothic e Dettagli Distressed",
+    "brand": "Palm Angels",
+    "oldPrice": 59.99,
+    "newPrice": 54.99
+  },
+  {
+    "id": "dd7e2aea-df5c-4c5d-9c04-3eba67c9da55",
+    "name": "Sneaker Sportiva con Gradiente Cromatico e Ammortizzazione Visibile",
+    "brand": "Nike",
+    "oldPrice": 125.34,
+    "newPrice": 125.55
+  },
+  {
+    "id": "882fda4c-b00a-46dd-b74e-a11b2902f95f",
+    "name": "Sneaker Low-Top con Ricamo Rose e Dettaglio Cuore",
+    "brand": "Nike",
+    "oldPrice": 134.99,
+    "newPrice": 134.55
+  },
+  {
+    "id": "7aa43fba-9b45-4db5-b21b-ecaa315dd788",
+    "name": "Sneaker Dinamica con Dettagli Sfumati",
+    "brand": "Nike",
+    "oldPrice": 114.99,
+    "newPrice": 116.55
+  },
+  {
+    "id": "99e25014-5e3e-47a7-8e90-73573c4c4832",
+    "name": "Sneaker Tecnica con Ammortizzazione Aria Multicolore",
+    "brand": "Nike",
+    "oldPrice": 125.34,
+    "newPrice": 125.55
+  },
+  {
+    "id": "a3365f49-a07c-4c51-be55-378a095006c1",
+    "name": "Sneaker Low-Top Bicolor con Swoosh a Contrasto",
+    "brand": "Nike",
+    "oldPrice": 136.24,
+    "newPrice": 134.55
+  },
+  {
+    "id": "abcd891f-defa-44b9-9b33-205776bb8678",
+    "name": "Sneaker Sportiva con Ammortizzazione Iconica e Profilo Ondulato",
+    "brand": "Nike",
+    "oldPrice": 124.99,
+    "newPrice": 125.55
+  },
+  {
+    "id": "0545ed1f-a501-41e8-a484-e56921efc1b2",
+    "name": "Sneaker con Stampa Animalier e Air Unit",
+    "brand": "Nike",
+    "oldPrice": 114.44,
+    "newPrice": 116.55
+  },
+  {
+    "id": "02f45bbb-7e77-4216-b74d-bdd4d1256261",
+    "name": "Sneaker Tecnica con Grafica All-Over",
+    "brand": "Nike",
+    "oldPrice": 114.44,
+    "newPrice": 116.55
+  },
+  {
+    "id": "8bc6c9fe-384b-4944-844d-699c7029fd6b",
+    "name": "Borsa Shopper con Logo Traforato 31cm",
+    "brand": "Prada",
+    "oldPrice": 250,
+    "newPrice": 251.1
+  },
+  {
+    "id": "24b5a9cd-9f27-420b-ae16-99e1f087f69c",
+    "name": "Borsa Hobo con Motivo Traforato e Manico Intrecciato",
+    "brand": "Louis Vuitton",
+    "oldPrice": 279.2,
+    "newPrice": 279
+  },
+  {
+    "id": "cf779e21-8925-4f17-971c-79145b490752",
+    "name": "Berretto in Maglia a Coste con Logo Triangolare",
+    "brand": "Prada",
+    "oldPrice": 126.75,
+    "newPrice": 125.55
+  },
+  {
+    "id": "057d75bf-719e-4681-a995-93f2e957dba4",
+    "name": "Pochette Uptown a bustina in tessuto spalmato goffrato",
+    "brand": "Saint Laurent",
+    "oldPrice": 99.99,
+    "newPrice": 98.55
+  },
+  {
+    "id": "80679ade-9caf-47dd-aa73-140aca692564",
+    "name": "Pouch a Busta con Trapuntatura Chevron e Monogramma",
+    "brand": "Saint Laurent",
+    "oldPrice": 99.99,
+    "newPrice": 98.55
+  },
+  {
+    "id": "3803dc46-92a6-4b47-9b78-330655ff0e57",
+    "name": "Bracciale Extrait de Camélia con Finitura Tonalità Oro Rosa e Cristalli",
+    "brand": "Chanel",
+    "oldPrice": 5400,
+    "newPrice": 5300
+  },
+  {
+    "id": "6eb06dde-4c87-4756-a397-950de1822aff",
+    "name": "Borsa Hobo in Raso con Cristalli",
+    "brand": "Prada",
+    "oldPrice": 249.99,
+    "newPrice": 251.1
+  },
+  {
+    "id": "e4c3d974-c374-4252-b8e2-c8129c6cd2c7",
+    "name": "Borsa Mini a Tracolla Trapuntata con Dettaglio Perle",
+    "brand": "Chanel",
+    "oldPrice": 219.99,
+    "newPrice": 220.05
+  },
+  {
+    "id": "631690c6-f606-4e70-bb90-350e6ce51ec4",
+    "name": "Sneaker Archlight con Suola a Onda e Dettagli Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 299,
+    "newPrice": 283.05
+  },
+  {
+    "id": "a52415b0-82b0-4e4b-8147-2046e1c9799e",
+    "name": "Sneaker Trainer Bicolore Rosa e Bianco",
+    "brand": "Louis Vuitton",
+    "oldPrice": 289,
+    "newPrice": 283.05
+  },
+  {
+    "id": "3a770d34-e679-49f7-8561-d71834cc8401",
+    "name": "Sneaker Streetwear Monogram Bicolore",
+    "brand": "Louis Vuitton",
+    "oldPrice": 260.1,
+    "newPrice": 260
+  },
+  {
+    "id": "3c97ced4-7b97-415d-aa31-86f3b1599471",
+    "name": "Sneaker Low-Top Bicolore con Dettaglio a Contrasto",
+    "brand": "Nike",
+    "oldPrice": 124.99,
+    "newPrice": 125.55
+  },
+  {
+    "id": "1ae36d81-66b0-4a27-9c1b-c623378fcf88",
+    "name": "Porta Carte con Zip e Monogramma Trapuntato",
+    "brand": "Saint Laurent",
+    "oldPrice": 157.5,
+    "newPrice": 157.49
+  },
+  {
+    "id": "54b06589-4a87-453f-a228-471e263a4b05",
+    "name": "Sneaker Streetwear con Ammortizzazione Air e Design Ondulato",
+    "brand": "Nike",
+    "oldPrice": 114.44,
+    "newPrice": 116.55
+  },
+  {
+    "id": "b1ceb701-e700-44ac-a19d-daf2abdeea88",
+    "name": "Sneaker Tecnica con Ammortizzazione Visibile e Toggle",
+    "brand": "Nike",
+    "oldPrice": 114.44,
+    "newPrice": 116.55
+  },
+  {
+    "id": "376b1d55-34c3-42f1-9848-ab99c3474e23",
+    "name": "Sneaker Streetwear Iconica con Ammortizzazione Air",
+    "brand": "Nike",
+    "oldPrice": 125.34,
+    "newPrice": 125.55
+  },
+  {
+    "id": "9c22425d-2df2-4ed3-9964-f2fa364d2234",
+    "name": "Sneaker Low-Top Total Pink",
+    "brand": "Nike",
+    "oldPrice": 124.99,
+    "newPrice": 125.55
+  },
+  {
+    "id": "f5d9d60d-b328-4573-ac6d-48ff7f189da5",
+    "name": "Sneaker Sportiva con Gradiente Cromatico e Gabbia Strutturale",
+    "brand": "Nike",
+    "oldPrice": 125.34,
+    "newPrice": 125.55
+  },
+  {
+    "id": "ff70a72b-1b43-4a09-b385-c44922689465",
+    "name": "Borsa a Spalla Rettangolare in Ecopelle Spazzolata",
+    "brand": "Prada",
+    "oldPrice": 251,
+    "newPrice": 251.1
+  },
+  {
+    "id": "783cebf2-39fe-4d45-9db6-60249784afd3",
+    "name": "Borsa Shopping Maxi Trapuntata con Monogramma",
+    "brand": "Saint Laurent",
+    "oldPrice": 295.2,
+    "newPrice": 283.05
+  },
+  {
+    "id": "61c0b812-8861-4172-8f05-3f58940c03af",
+    "name": "Borsa a Mano con Trapuntatura Chevron e Doppia G",
+    "brand": "Gucci",
+    "oldPrice": 289,
+    "newPrice": 283.05
+  },
+  {
+    "id": "099a3860-67dc-4206-aa78-3280a4a28c92",
+    "name": "Borsa Tote Media con Logo Traforato",
+    "brand": "Prada",
+    "oldPrice": 251,
+    "newPrice": 251.1
+  },
+  {
+    "id": "266ee8fc-294e-42f2-8c8d-577bb8f43765",
+    "name": "Borsa Shopping a Secchiello Trapuntata con Catena",
+    "brand": "Chanel",
+    "oldPrice": 265.05,
+    "newPrice": 263.2
+  },
+  {
+    "id": "d0dbaec9-09ef-4530-a174-f7aee78e3dc6",
+    "name": "Pochette porta trucchi trapuntata con monogramma",
+    "brand": "Saint Laurent",
+    "oldPrice": 108.38,
+    "newPrice": 107.55
+  },
+  {
+    "id": "ec4ab613-f9e0-4683-be42-03c2d9bc2151",
+    "name": "Borsa a Spalla con Motivo FF in Rilievo",
+    "brand": "Fendi",
+    "oldPrice": 259,
+    "newPrice": 260
+  },
+  {
+    "id": "2ce58ff2-0bb4-4f62-b144-6dfb41a2a637",
+    "name": "Borsa a Tracolla con Trapuntatura Geometrica",
+    "brand": "Saint Laurent",
+    "oldPrice": 107.7,
+    "newPrice": 107.55
+  },
+  {
+    "id": "bbf6fcf0-c5de-4beb-81b3-1c3b62907d58",
+    "name": "Borsa Tote Andiamo con Nodo Dorato",
+    "brand": "Bottega Veneta",
+    "oldPrice": 233.55,
+    "newPrice": 231.2
+  },
+  {
+    "id": "890ce460-5199-48d9-afb6-bbd4853780b9",
+    "name": "Portamonete Compatto con Motivo a Scacchi",
+    "brand": "Louis Vuitton",
+    "oldPrice": 71.55,
+    "newPrice": 76.05
+  },
+  {
+    "id": "d7aed4b8-5a89-4afa-a4f9-0d245a09cdb7",
+    "name": "Borsa a Tracolla Trapuntata con Monogramma",
+    "brand": "Burberry",
+    "oldPrice": 98.7,
+    "newPrice": 98.55
+  },
+  {
+    "id": "09af75fc-5dae-4999-97cd-27085cf2003d",
+    "name": "Sneaker Bassa Slim con Dettagli Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 85.05,
+    "newPrice": 87.2
+  },
+  {
+    "id": "cab30366-6e6b-450a-86b1-30e882ded8cf",
+    "name": "Borsa a Spalla con Chiusura Girevole",
+    "brand": "Celine",
+    "oldPrice": 197.55,
+    "newPrice": 199.2
+  },
+  {
+    "id": "67f444dd-3975-4f51-b5d7-1de7e27919a6",
+    "name": "Sneaker Running con Logo CC Argento",
+    "brand": "Chanel",
+    "oldPrice": 94.05,
+    "newPrice": 92.8
+  },
+  {
+    "id": "2d797995-a008-441c-aead-6ae430ba3307",
+    "name": "Borsa Maxi con Patta e Manico Superiore",
+    "brand": "Chanel",
+    "oldPrice": 229.05,
+    "newPrice": 229
+  },
+  {
+    "id": "152426a8-eda2-4ab4-8097-de2a2c2233af",
+    "name": "Bracciale Juste un Clou Modello Piccolo in Oro Rosa e Diamanti",
+    "brand": "Cartier",
+    "oldPrice": 5850,
+    "newPrice": 5300
+  },
+  {
+    "id": "c9629eeb-ef29-47cf-bfb2-d316baff3c5c",
+    "name": "Bracciale Love Modello Sottile in Oro Bianco",
+    "brand": "Cartier",
+    "oldPrice": 5650,
+    "newPrice": 5300
+  },
+  {
+    "id": "8216c821-f2ba-4ec9-970c-bae7397ace2f",
+    "name": "Borsa a Mano Iconica Bleu Glacier 35cm",
+    "brand": "Hermès",
+    "oldPrice": 301.05,
+    "newPrice": 283.05
+  },
+  {
+    "id": "1f85bee0-5e8c-4b23-854d-1962ee925322",
+    "name": "Borsa a Mano in Microfibra Scamosciata 30",
+    "brand": "Hermès",
+    "oldPrice": 292.05,
+    "newPrice": 283.05
+  },
+  {
+    "id": "04d08ae7-b99f-4b6d-a566-07b04a7b46e7",
+    "name": "Borsa a Tracolla Jypsiere Mini Grigia",
+    "brand": "Hermès",
+    "oldPrice": 238.05,
+    "newPrice": 239.2
+  },
+  {
+    "id": "72b398ac-27db-4494-8980-0e7299c1986e",
+    "name": "Bracciale Lignes Essentielles in Platino e Diamanti",
+    "brand": "Cartier",
+    "oldPrice": 90,
+    "newPrice": 89.55
+  },
+  {
+    "id": "0d6a00f6-15aa-40c1-a536-938744673dce",
+    "name": "Anello Love in Oro Bianco con 3 Diamanti",
+    "brand": "Cartier",
+    "oldPrice": 4900,
+    "newPrice": 5300
+  },
+  {
+    "id": "ded3496e-606c-4093-b674-0d3d049cf562",
+    "name": "Anello LOVE Modello Mini in Oro Giallo con Pavé di Diamanti",
+    "brand": "Cartier",
+    "oldPrice": 5550,
+    "newPrice": 5300
+  },
+  {
+    "id": "05d8e8d6-1575-49cc-9a61-1103a2f20151",
+    "name": "Anello Love Modello Small in Oro Rosa con Pavé di Diamanti",
+    "brand": "Cartier",
+    "oldPrice": 5550,
+    "newPrice": 5300
+  },
+  {
+    "id": "84cd5602-d277-4230-acb3-50195f6f74a0",
+    "name": "Orecchini a Cerchio Love Modello Grande in Oro Giallo",
+    "brand": "Cartier",
+    "oldPrice": 4900,
+    "newPrice": 5300
+  },
+  {
+    "id": "23d8387d-de33-45f2-b33e-6a3282a62ce4",
+    "name": "Bracciale Vintage Alhambra a 5 Motivi in Oro Giallo e Occhio di Tigre",
+    "brand": "Van Cleef & Arpels",
+    "oldPrice": 5850,
+    "newPrice": 5300
+  },
+  {
+    "id": "0e3301e9-8431-4c75-a15c-fbc6d8f8feaf",
+    "name": "Borsa Shopping Trapuntata con Coulisse e Catena",
+    "brand": "Chanel",
+    "oldPrice": 260.55,
+    "newPrice": 260
+  },
+  {
+    "id": "9ebfbd0b-9585-4324-91e5-7629a0924c73",
+    "name": "Mini Borsa Flap Trapuntata con Manico di Perle",
+    "brand": "Chanel",
+    "oldPrice": 247.05,
+    "newPrice": 247.2
+  },
+  {
+    "id": "b5dc7729-2698-4ce5-8aa4-08d4ace36471",
+    "name": "Borsa Shopping Trapuntata Beige con Catena",
+    "brand": "Chanel",
+    "oldPrice": 265.05,
+    "newPrice": 263.2
+  },
+  {
+    "id": "530c5ef8-572b-4ffd-8f31-37c08ae45a66",
+    "name": "Borsa Bucket Grande Trapuntata con Catena",
+    "brand": "Chanel",
+    "oldPrice": 269.55,
+    "newPrice": 269.1
+  },
+  {
+    "id": "e7d8da62-03a0-411e-9fac-3dee04c9fb64",
+    "name": "Sneaker Oversize con Suola Platform Bianca",
+    "brand": "Alexander McQueen",
+    "oldPrice": 199,
+    "newPrice": 199.2
+  },
+  {
+    "id": "2bad7e7a-cb03-4795-874d-4a743821b844",
+    "name": "Borsa Micro con Patta e Impunture Cannage",
+    "brand": "Dior",
+    "oldPrice": 249,
+    "newPrice": 247.2
+  },
+  {
+    "id": "fa4f5734-34fc-475b-9fc8-dc7a51398613",
+    "name": "Sneaker Oversize con Tallone Glitter Rosa",
+    "brand": "Alexander McQueen",
+    "oldPrice": 199,
+    "newPrice": 199.2
+  },
+  {
+    "id": "304ab9dc-1066-425f-aa6f-8fe178220c1c",
+    "name": "Sneaker Oversize con Tallone in Cristalli Oltremare",
+    "brand": "Alexander McQueen",
+    "oldPrice": 199,
+    "newPrice": 199.2
+  },
+  {
+    "id": "6a7cfbfd-6aa1-47c3-be07-e51d5689724d",
+    "name": "Sneaker Oversized con Dettaglio Tallone Rosa",
+    "brand": "Alexander McQueen",
+    "oldPrice": 199,
+    "newPrice": 199.2
+  },
+  {
+    "id": "09223edf-af45-4b41-a1e3-06e7d5c0f52f",
+    "name": "Borsa a Mano con Impunture Cannage e Tracolla Personalizzata",
+    "brand": "Dior",
+    "oldPrice": 299,
+    "newPrice": 283.05
+  },
+  {
+    "id": "1e0a51a8-7bca-4849-859a-adab61200102",
+    "name": "Borsa Hobo Grande in Tessuto Spalmato",
+    "brand": "Celine",
+    "oldPrice": 188.55,
+    "newPrice": 189
+  },
+  {
+    "id": "6555a663-9bd6-4040-acb5-7b4220f6aef0",
+    "name": "Borsa a Mano Strutturata con Effetto Coccodrillo",
+    "brand": "Saint Laurent",
+    "oldPrice": 229.05,
+    "newPrice": 229
+  },
+  {
+    "id": "e5242be8-ea0c-465e-a492-563ea463da45",
+    "name": "Porta Carte in Tessuto Spalmato con Motivo Vintage Check",
+    "brand": "Burberry",
+    "oldPrice": 157.5,
+    "newPrice": 157.49
+  },
+  {
+    "id": "ec0a49ef-558a-4534-9969-0401ecaac136",
+    "name": "Borsa Hobo Josie in Tessuto Denim Trapuntato",
+    "brand": "Chanel",
+    "oldPrice": 260.55,
+    "newPrice": 260
+  },
+  {
+    "id": "b342b5bf-4790-4765-9847-c784ba59106e",
+    "name": "Custodia per Smartphone in Tessuto Spalmato Trapuntato",
+    "brand": "Chanel",
+    "oldPrice": 93.38,
+    "newPrice": 92.8
+  },
+  {
+    "id": "b1b1abb7-93fd-47da-ba38-433f01a55299",
+    "name": "Borsa Hobo Trapuntata in Tessuto con Catena",
+    "brand": "Chanel",
+    "oldPrice": 265.05,
+    "newPrice": 263.2
+  },
+  {
+    "id": "5d9d8250-d8ca-4685-ab9c-e0a028898613",
+    "name": "Custodia Porta Smartphone Trapuntata in Tessuto Spalmato",
+    "brand": "Chanel",
+    "oldPrice": 93.38,
+    "newPrice": 92.8
+  },
+  {
+    "id": "07968daa-58d1-4be0-8292-2e563bbb1c2f",
+    "name": "Bracciale Juste un Clou Modello Piccolo in Oro Giallo e Diamanti",
+    "brand": "Cartier",
+    "oldPrice": 5850,
+    "newPrice": 5300
+  },
+  {
+    "id": "fbe0bb95-0027-4d51-91d6-6714c1787fc9",
+    "name": "Anello Juste un Clou Modello Classico in Oro Giallo con Diamanti",
+    "brand": "Cartier",
+    "oldPrice": 5050,
+    "newPrice": 5300
+  },
+  {
+    "id": "b10f3a52-f108-41be-b996-2a4905fad6a7",
+    "name": "Borsa Tote Media con Texture Saffiano",
+    "brand": "Prada",
+    "oldPrice": 244,
+    "newPrice": 247.2
+  },
+  {
+    "id": "5c9853d4-3e57-4367-81f3-3c72f221bb21",
+    "name": "Borsa Puffer Grande in Velluto Trapuntato",
+    "brand": "Saint Laurent",
+    "oldPrice": 279.2,
+    "newPrice": 279
+  },
+  {
+    "id": "dff5610d-dff3-4cba-8246-d63b914e40eb",
+    "name": "Collana Lunga Vintage Alhambra a 20 Motivi in Oro Bianco e Diamanti",
+    "brand": "Van Cleef & Arpels",
+    "oldPrice": 133,
+    "newPrice": 134.55
+  },
+  {
+    "id": "5164ac49-2722-4460-831a-6a8117b06899",
+    "name": "Bracciale Vintage Alhambra con 5 Motivi in Oro Giallo e Onice",
+    "brand": "Van Cleef & Arpels",
+    "oldPrice": 5100,
+    "newPrice": 5300
+  },
+  {
+    "id": "d737e5bb-1919-4847-a9ef-1f6cbe823249",
+    "name": "Bracciale Vintage Alhambra a 5 Motivi in Oro Giallo e Madreperla",
+    "brand": "Van Cleef & Arpels",
+    "oldPrice": 5350,
+    "newPrice": 5300
+  },
+  {
+    "id": "2ceae42d-52cc-4e9c-8217-e98229193ff0",
+    "name": "Bracciale Vintage Alhambra a 5 Motivi in Oro Giallo e Corniola",
+    "brand": "Van Cleef & Arpels",
+    "oldPrice": 5600,
+    "newPrice": 5300
+  },
+  {
+    "id": "534e1d2c-4d84-4092-92ee-1fff62b8f251",
+    "name": "Bracciale Vintage Alhambra a 5 Motivi in Oro Giallo e Agata Blu",
+    "brand": "Van Cleef & Arpels",
+    "oldPrice": 5850,
+    "newPrice": 5300
+  },
+  {
+    "id": "605ab2ab-7820-4b26-8d6b-a89f2f687fc0",
+    "name": "Bracciale Mini Coco Crush con Finitura Argentata",
+    "brand": "Chanel",
+    "oldPrice": 5600,
+    "newPrice": 5300
+  },
+  {
+    "id": "7f1f26f3-41ff-49db-b36c-0e181eda2230",
+    "name": "Borsa Tote Maxi con Trapuntatura Matelassé",
+    "brand": "Chanel",
+    "oldPrice": 269.55,
+    "newPrice": 269.1
+  },
+  {
+    "id": "4220154c-4d74-480c-a069-0fb667866e9a",
+    "name": "Bracciale Nano Monogram in Tessuto Spalmato",
+    "brand": "Louis Vuitton",
+    "oldPrice": 95.2,
+    "newPrice": 92.8
+  },
+  {
+    "id": "562b72b7-a8bb-4ca2-9304-c2109a615eed",
+    "name": "Sneaker Urban Street con Fascia Elastica e Logo",
+    "brand": "Givenchy",
+    "oldPrice": 180,
+    "newPrice": 179.99
+  },
+  {
+    "id": "120f1238-5db5-4023-8ff2-f2cf37f6e161",
+    "name": "Borsa a Mano Iconica 25 Lime",
+    "brand": "Hermès",
+    "oldPrice": 296.55,
+    "newPrice": 283.05
+  },
+  {
+    "id": "464fd535-2bd7-4c48-8517-9aefacf02366",
+    "name": "Borsa a Mano 30 in Ecopelle Granulata Violetto",
+    "brand": "Hermès",
+    "oldPrice": 265.05,
+    "newPrice": 263.2
+  },
+  {
+    "id": "0941f453-091c-46db-ac22-c96981b9965e",
+    "name": "Borsa a Mano Iconica 35 in Tessuto Spalmato Cassis",
+    "brand": "Hermès",
+    "oldPrice": 310.05,
+    "newPrice": 283.05
+  },
+  {
+    "id": "0382bc3d-cfbe-448f-aac6-2f44cb3754b6",
+    "name": "Bracciale Coco Crush con Motivo Matelassé Tonalità Oro Giallo",
+    "brand": "Chanel",
+    "oldPrice": 5250,
+    "newPrice": 5300
+  },
+  {
+    "id": "1dc677a9-dcbe-4651-ba31-dada5c1bd71c",
+    "name": "Sneaker Trainer in Materiale Tecnico Bianco",
+    "brand": "Louis Vuitton",
+    "oldPrice": 260.1,
+    "newPrice": 260
+  },
+  {
+    "id": "17d7b966-09bb-4fe7-81c0-23cf5c443219",
+    "name": "Borsa a Mano Piccola con Texture Effetto Struzzo",
+    "brand": "Louis Vuitton",
+    "oldPrice": 287.55,
+    "newPrice": 283.05
+  },
+  {
+    "id": "9d550480-e723-40d7-9fad-81ba8e913eb6",
+    "name": "Borsa a Tracolla Camera Box con Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 197.55,
+    "newPrice": 199.2
+  },
+  {
+    "id": "e8c80f29-b2ce-44b0-8756-504571aa99c4",
+    "name": "Cinta Sottile con Fibbia Logo Doppia G",
+    "brand": "Gucci",
+    "oldPrice": 55.88,
+    "newPrice": 54.99
+  },
+  {
+    "id": "0afab7cb-fe9f-4a7e-88d0-3e2e6f1b4b42",
+    "name": "Cinta con Fibbia Interlocking G Monogram",
+    "brand": "Gucci",
+    "oldPrice": 55.88,
+    "newPrice": 54.99
+  },
+  {
+    "id": "27722e52-7865-410c-be53-f4a511e2996f",
+    "name": "Sneaker Bassa con Monogram GG e Patch Logo",
+    "brand": "Gucci",
+    "oldPrice": 94.05,
+    "newPrice": 92.8
+  },
+  {
+    "id": "0a2e757e-cb73-4e7e-9c33-bc5d948eeb4b",
+    "name": "Borsa a Mano Iconica 25 in Tessuto Spalmato Cioccolato",
+    "brand": "Hermès",
+    "oldPrice": 287.55,
+    "newPrice": 283.05
+  },
+  {
+    "id": "73e230c3-3c71-4770-84bb-b17c25ef741c",
+    "name": "Borsa a Mano Iconica 25 Etoupe con Hardware Oro",
+    "brand": "Hermès",
+    "oldPrice": 287.55,
+    "newPrice": 283.05
+  },
+  {
+    "id": "290e9f6c-a610-4a79-95d1-65a287f57371",
+    "name": "Borsa a Mano Trapezoidale Tricolore in Tessuto Spalmato",
+    "brand": "Hermès",
+    "oldPrice": 287.55,
+    "newPrice": 283.05
+  },
+  {
+    "id": "d8443cab-7cf5-4657-8f79-f0e0c408ea06",
+    "name": "Set Coordinato con Borsa a Mano, Sandali e Cintura",
+    "brand": "Hermès",
+    "oldPrice": 313.65,
+    "newPrice": 283.05
+  },
+  {
+    "id": "d6e2e435-2620-4831-9b04-84598c63748a",
+    "name": "Borsa a Mano Strutturata 30 in Blu Notte",
+    "brand": "Hermès",
+    "oldPrice": 251.55,
+    "newPrice": 251.1
+  },
+  {
+    "id": "3b7ef002-32e9-4346-9d0a-8e9426f8f7ba",
+    "name": "Borsa a Mano Iconica 30cm in Eco-Nappa",
+    "brand": "Hermès",
+    "oldPrice": 251.55,
+    "newPrice": 251.1
+  },
+  {
+    "id": "b95eaf6d-7689-45f1-9a52-bb412f6d12c4",
+    "name": "Sneaker Futuristica con Suola Oversize Rosa e Bianca",
+    "brand": "Louis Vuitton",
+    "oldPrice": 299,
+    "newPrice": 283.05
+  },
+  {
+    "id": "89bcf92b-fc34-4136-b217-e6ce2ff04c2d",
+    "name": "Sneaker Futuristica con Lacci a Fiocco e Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 299,
+    "newPrice": 283.05
+  },
+  {
+    "id": "be766f7a-41d7-4c71-9c93-e0c153213f6b",
+    "name": "Borsa a Spalla Side Trunk GM con Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 125.78,
+    "newPrice": 125.55
+  },
+  {
+    "id": "752e2b09-a02e-4aa8-b359-4646763d6107",
+    "name": "Pochette Portachiavi con Motivo Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 58.05,
+    "newPrice": 54.99
+  },
+  {
+    "id": "6d80aaef-a10c-4a23-abd6-7c0c3d9caea7",
+    "name": "Portachiavi e Borsellino in Denim Monogram con Ciliegie",
+    "brand": "Louis Vuitton",
+    "oldPrice": 80.55,
+    "newPrice": 79.2
+  },
+  {
+    "id": "c19415bd-7fce-480b-aad1-786dbcee1e05",
+    "name": "Pochette Portachiavi con Monogram Gradient",
+    "brand": "Louis Vuitton",
+    "oldPrice": 53.55,
+    "newPrice": 54.99
+  },
+  {
+    "id": "ed5ed96d-87e8-4d86-a4a4-e0bc269cedd6",
+    "name": "Portamonete Zippy con Motivo Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 71.55,
+    "newPrice": 76.05
+  },
+  {
+    "id": "94a9d047-9c52-45db-b571-041f3bee3715",
+    "name": "Agenda Media in Tessuto Spalmato con Motivo Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 85.05,
+    "newPrice": 87.2
+  },
+  {
+    "id": "1cccaf20-ac1e-4d51-8d88-39396ee682d5",
+    "name": "Pochette Portachiavi con Monogram Bicolore",
+    "brand": "Louis Vuitton",
+    "oldPrice": 53.55,
+    "newPrice": 54.99
+  },
+  {
+    "id": "f69a66aa-1e11-4a30-8040-58205d0f9e56",
+    "name": "Bustina Portachiavi con Motivo Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 53.55,
+    "newPrice": 54.99
+  },
+  {
+    "id": "419aeaed-934f-4f3c-9356-12c5fbab9405",
+    "name": "Pochette con Motivo Monogram a Rilievo",
+    "brand": "Louis Vuitton",
+    "oldPrice": 71.55,
+    "newPrice": 76.05
+  },
+  {
+    "id": "a0778642-6e81-434e-b9c4-a1e2f1f071be",
+    "name": "Borsa a Mano in Midollino Intrecciato con Tracolla",
+    "brand": "Louis Vuitton",
+    "oldPrice": 238.05,
+    "newPrice": 239.2
+  },
+  {
+    "id": "0b2a35c1-b744-40b1-aab0-9d1c46258cd1",
+    "name": "Astuccio Portapenne con Motivo Monogram",
+    "brand": "Louis Vuitton",
+    "oldPrice": 70.88,
+    "newPrice": 76.05
+  },
+  {
+    "id": "3bf39506-72a1-4ac9-adc9-971bb7f92b08",
+    "name": "Borsa a Mano Speedy 32 con Monogram Candy",
+    "brand": "Louis Vuitton",
+    "oldPrice": 193.05,
+    "newPrice": 191.2
+  },
+  {
+    "id": "3dcd67ac-6652-481f-8131-97ff9d9718bd",
+    "name": "Maglione a Collo Alto a Maniche Corte in Cashmere",
+    "brand": "Miu Miu",
+    "oldPrice": 58.05,
+    "newPrice": 54.99
+  },
+  {
+    "id": "83ac5edf-9180-4e07-9a2a-14e602682eb1",
+    "name": "Berretto in Maglia a Coste con Logo a Triangolo",
+    "brand": "Prada",
+    "oldPrice": 126.75,
+    "newPrice": 125.55
+  },
+  {
+    "id": "c0fe3bc4-288c-4124-a315-3f438c214e56",
+    "name": "Borsa a Mano Re-Edition 1995 Minimal",
+    "brand": "Prada",
+    "oldPrice": 249,
+    "newPrice": 247.2
+  }
+]
