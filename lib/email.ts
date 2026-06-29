@@ -3,6 +3,9 @@ import { createServiceClient } from './supabase-server';
 import { OrderItem } from './types';
 import { sendTelegramNotification } from './telegram';
 
+const WHATSAPP_NUMBER = '393511660891';
+const WHATSAPP_DISPLAY = '+39 351 166 0891';
+
 export async function sendOrderConfirmationEmail(orderId: string) {
   try {
     const supabase = createServiceClient();
@@ -53,6 +56,11 @@ export async function sendOrderConfirmationEmail(orderId: string) {
       </tr>
     `).join('');
 
+    const whatsappMessage = `Ciao, ho appena effettuato l'ordine #${order.order_number} su ${storeName}. Vorrei ricevere aggiornamenti sulla spedizione.`;
+    const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappGeneralUrl = `https://wa.me/${WHATSAPP_NUMBER}`;
+    const whatsappQrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=180x180&margin=8&data=${encodeURIComponent(whatsappUrl)}`;
+
     const htmlContent = `
       <div style="font-family: sans-serif; max-width: 600px; margin: 0 auto; color: #333;">
         <h2 style="text-align: center; color: #000;">Grazie per il tuo ordine!</h2>
@@ -81,8 +89,36 @@ export async function sendOrderConfirmationEmail(orderId: string) {
           </tfoot>
         </table>
 
-        <div style="margin-top: 40px; text-align: center; font-size: 12px; color: #999;">
-          <p>Se hai domande, rispondi a questa email.</p>
+        <div style="margin-top: 32px; padding: 24px; background-color: #f9f9f9; border-radius: 8px; text-align: center;">
+          <p style="margin: 0 0 8px; font-size: 14px; color: #333;"><strong>Hai domande?</strong></p>
+          <p style="margin: 0 0 12px; font-size: 13px; color: #666; line-height: 1.5;">
+            Contattaci su WhatsApp al
+            <a href="${whatsappGeneralUrl}" style="color: #25D366; font-weight: bold; text-decoration: none;">${WHATSAPP_DISPLAY}</a>
+            — siamo a tua disposizione per qualsiasi dubbio.
+          </p>
+          <p style="margin: 0 0 24px; font-size: 13px; color: #666; line-height: 1.5;">
+            Per restare aggiornato sul tuo ordine <strong>#${order.order_number}</strong>, scrivici su WhatsApp: ti terremo informato su preparazione e spedizione.
+          </p>
+
+          <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" style="margin: 0 auto 24px;">
+            <tr>
+              <td style="border-radius: 8px; background-color: #25D366;">
+                <a href="${whatsappUrl}" target="_blank" style="display: inline-block; background-color: #25D366; border: 1px solid #25D366; font-family: sans-serif; font-size: 15px; font-weight: bold; line-height: 1; text-decoration: none; padding: 14px 32px; color: #ffffff; border-radius: 8px;">
+                  Apri WhatsApp
+                </a>
+              </td>
+            </tr>
+          </table>
+
+          <p style="margin: 0 0 12px; font-size: 12px; color: #888;">Oppure inquadra il QR code con il telefono:</p>
+          <a href="${whatsappUrl}" target="_blank" style="display: inline-block; text-decoration: none;">
+            <img src="${whatsappQrUrl}" alt="QR code WhatsApp ordine #${order.order_number}" width="180" height="180" style="display: block; margin: 0 auto; border: 1px solid #e5e5e5; border-radius: 8px;" />
+          </a>
+          <p style="margin: 12px 0 0; font-size: 11px; color: #aaa;">Il messaggio con il numero ordine sarà già compilato.</p>
+        </div>
+
+        <div style="margin-top: 32px; text-align: center; font-size: 12px; color: #999;">
+          <p>Puoi anche rispondere direttamente a questa email.</p>
           <p>&copy; ${new Date().getFullYear()} ${storeName}. Tutti i diritti riservati.</p>
         </div>
       </div>
