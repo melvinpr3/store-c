@@ -39,7 +39,7 @@ export async function GET(request: NextRequest) {
     const { data: order, error: fetchError } = await supabase
       .from("orders")
       .select(
-        "id, order_number, total, subtotal, shipping_cost, status, payment_status, store_id, order_items(id, product_name, brand, price, quantity)"
+        "id, order_number, total, subtotal, shipping_cost, discount_amount, status, payment_status, store_id, order_items(id, product_name, brand, price, quantity)"
       )
       .eq("id", orderId)
       .single();
@@ -77,6 +77,7 @@ export async function GET(request: NextRequest) {
       amount: order.total.toFixed(2),
       itemTotal: order.subtotal.toFixed(2),
       shippingCost: order.shipping_cost.toFixed(2),
+      discountAmount: (order.discount_amount || 0) > 0 ? Number(order.discount_amount).toFixed(2) : undefined,
       items,
       returnUrl: `${origin}/api/paypal/return?order_id=${orderId}&token=${encodeURIComponent(token)}`,
       cancelUrl: `${origin}/api/paypal/cancel?order_id=${orderId}&token=${encodeURIComponent(token)}`,
